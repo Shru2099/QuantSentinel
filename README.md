@@ -46,7 +46,7 @@ This project implements a full-scale **market risk modeling framework** inspired
 
 | File | Description |
 |------|-------------|
-| `Market_Risk_Modelling_StepByStep.ipynb` | Full Jupyter notebook with modular steps |
+| `Market_Risk_Modelling.ipynb` | Full Jupyter notebook with modular steps |
 | `summary.pdf` | Executive summary (2-page project brief) |
 | `README.md` | This file |
 | `screenshots/` | (Optional) Dashboard or output visualizations |
