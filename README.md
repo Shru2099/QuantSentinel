@@ -89,7 +89,7 @@ This project implements a full-scale **market risk modeling framework** inspired
    ```
 3. Launch the notebook:
    ```bash
-   jupyter notebook Market_Risk_Modelling.ipynb
+   jupyter notebook Market_Risk.ipynb
    ```
 
 ---
